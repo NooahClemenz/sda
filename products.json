@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Smartwatch X1",
+    "image": "https://via.placeholder.com/300x200?text=Smartwatch+X1",
+    "price": 59.9,
+    "stock": 14
+  },
+  {
+    "id": 2,
+    "title": "Fitness Tracker Pro",
+    "image": "https://via.placeholder.com/300x200?text=Fitness+Tracker+Pro",
+    "price": 39.9,
+    "stock": 32
+  },
+  {
+    "id": 3,
+    "title": "Wireless Earbuds",
+    "image": "https://via.placeholder.com/300x200?text=Wireless+Earbuds",
+    "price": 29.9,
+    "stock": 0
+  }
+]
